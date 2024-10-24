@@ -1,0 +1,14 @@
+C:\Users\Tamadoni\OneDrive\Desktop\برنامه نویسی\تکالیف\HW-week 6\Extention methods\Extention methods\obj\Debug\net8.0\Extention methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tamadoni\OneDrive\Desktop\برنامه نویسی\تکالیف\HW-week 6\Extention methods\Extention methods\obj\Debug\net8.0\Extention methods.AssemblyInfoInputs.cache
+C:\Users\Tamadoni\OneDrive\Desktop\برنامه نویسی\تکالیف\HW-week 6\Extention methods\Extention methods\obj\Debug\net8.0\Extention methods.AssemblyInfo.cs
+C:\Users\Tamadoni\OneDrive\Desktop\برنامه نویسی\تکالیف\HW-week 6\Extention methods\Extention methods\obj\Debug\net8.0\Extention methods.csproj.CoreCompileInputs.cache
+C:\Users\Tamadoni\OneDrive\Desktop\برنامه نویسی\تکالیف\HW-week 6\Extention methods\Extention methods\bin\Debug\net8.0\Extention methods.exe
+C:\Users\Tamadoni\OneDrive\Desktop\برنامه نویسی\تکالیف\HW-week 6\Extention methods\Extention methods\bin\Debug\net8.0\Extention methods.deps.json
+C:\Users\Tamadoni\OneDrive\Desktop\برنامه نویسی\تکالیف\HW-week 6\Extention methods\Extention methods\bin\Debug\net8.0\Extention methods.runtimeconfig.json
+C:\Users\Tamadoni\OneDrive\Desktop\برنامه نویسی\تکالیف\HW-week 6\Extention methods\Extention methods\bin\Debug\net8.0\Extention methods.dll
+C:\Users\Tamadoni\OneDrive\Desktop\برنامه نویسی\تکالیف\HW-week 6\Extention methods\Extention methods\bin\Debug\net8.0\Extention methods.pdb
+C:\Users\Tamadoni\OneDrive\Desktop\برنامه نویسی\تکالیف\HW-week 6\Extention methods\Extention methods\obj\Debug\net8.0\Extention methods.dll
+C:\Users\Tamadoni\OneDrive\Desktop\برنامه نویسی\تکالیف\HW-week 6\Extention methods\Extention methods\obj\Debug\net8.0\refint\Extention methods.dll
+C:\Users\Tamadoni\OneDrive\Desktop\برنامه نویسی\تکالیف\HW-week 6\Extention methods\Extention methods\obj\Debug\net8.0\Extention methods.pdb
+C:\Users\Tamadoni\OneDrive\Desktop\برنامه نویسی\تکالیف\HW-week 6\Extention methods\Extention methods\obj\Debug\net8.0\Extention methods.genruntimeconfig.cache
+C:\Users\Tamadoni\OneDrive\Desktop\برنامه نویسی\تکالیف\HW-week 6\Extention methods\Extention methods\obj\Debug\net8.0\ref\Extention methods.dll
